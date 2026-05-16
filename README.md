@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm Ahmad Asmar, A Senior DevOps Engineer and Kubernetes Certified Administrator</h1>
-<h3 align="center">A passionate Senior SRE/DevOps Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif">
+# Ahmad Asmar
 
-- 🌱 I’m currently learning **Gitops, Platform Engineering**
+**Staff DevOps / Platform Lead** · Open to opportunities
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hax7](https://github.com/Hax7)
+Built and ran an AWS-native platform serving 25+ microservices across 20 EKS clusters in 4 regions for 3 years — 18 months of which as the **sole DevOps engineer**. Open-source maintainer of a Terraform Registry module powering self-service GitLab runner fleets (3,767 downloads) and a 158★ Claude Code skills marketplace.
 
-- 💬 Ask me about **DevOps, Kubernetes**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadasmar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadasmar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedasmar.github.io-24292e?logo=github&logoColor=white)](https://ahmedasmar.github.io)
+[![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?logo=kubernetes&logoColor=white)](https://www.cncf.io/training/certification/cka/)
 
-- 📫 How to reach me **ahmad.s.asmar@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmadasmar](https://www.linkedin.com/in/ahmadasmar)
+## 🌟 Featured open source
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmadasmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadasmar" height="30" width="40" /></a>
-</p>
+| Project | Highlight |
+|---|---|
+| [**terraform-aws-gitlab-docker-autoscaler-runner**](https://github.com/ahmedasmar/terraform-aws-gitlab-docker-autoscaler-runner) | **3,767 downloads** on the Terraform Registry. Scale-to-zero GitLab runner platform on AWS Fleeting + 100% spot + attribute-based instance selection. 2 years of maintenance · v0.6.8. |
+| [**devops-claude-skills**](https://github.com/ahmedasmar/devops-claude-skills) | **158 ★ · 32 forks**. A Claude Code Skills marketplace for DevOps workflows — onboarding ArgoCD clusters, migrating Helm charts to GitOps, AWS SSO auth recovery, and more. |
+| [**godaddy-webhook**](https://github.com/ahmedasmar/godaddy-webhook) | Cert-manager DNS-01 webhook for GoDaddy (Go). ACME automation for domains that don't fit the standard providers. |
+| [**terraform-aws-sftp**](https://github.com/ahmedasmar/terraform-aws-sftp) | AWS Transfer Family SFTP module on top of S3. |
+| [**platform-engineering-project**](https://github.com/ahmedasmar/platform-engineering-project) | kagent AI agents + MCP servers (Datadog) + Ollama on k8s — a working sandbox for AI-on-platform patterns. |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="aws" width="40" height="40"/> </a> <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/6203daf47137054c031fa0e6/63c7f4ab9471e63a01d7d285_argo-icon-color.png" alt="istio" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hax7&show_icons=true&locale=en&layout=compact" alt="hax7" /></p>
+---
 
+## What I do
+
+- **Multi-account AWS at scale** — 20 SSO-managed accounts, 4 regions (us-east-1, eu-west-1, ca-central-1, eu-west-2), 20 EKS clusters, 25+ microservices.
+- **GitOps platform owner** — 3-month epic standing up dedicated ArgoCD devops clusters on shared-staging-devops + shared-prod-devops. Authored ~70% of the `zc-gitops` repo. ApplicationSet pattern for multi-cluster fan-out. Cluster onboarding via cross-account IAM (Pod Identity + AssumeRole) — no bearer tokens.
+- **Service mesh + Gateway API migration** — designed the 12-phase rollout plan for Istio Ambient (sidecar-less). Shipped Phases 0/1/2.0/2.1/2.2 to all 6 staging clusters in a 2-week sprint (125 commits across 8 repos). Validated the cross-account `TargetGroupBinding` pattern that removes the NLB hop between ALB and pods.
+- **EKS fleet operations** — 6 major Kubernetes upgrades over 3 years (1.22 → 1.34). Last upgrade across ~10 production clusters in **2 working days**. Fleet-wide migrations to Bottlerocket, Kyverno, VPA, and Pod Identity — zero rollbacks.
+- **Modern Terraform CI/CD** — replaced "push-to-staging-and-hope" with validate → Checkov → plan-in-MR → Infracost → auto-apply. **37% faster pipelines (8:52 → 5:36)** fleet-wide.
+- **Open-source maintainer** — Terraform Registry module powering Zencity's runner fleet (also adopted beyond it), and a Claude Code skills marketplace people actually star and fork.
+
+---
+
+## Tech stack
+
+| Layer | Tools |
+|---|---|
+| **Cloud** | AWS (multi-account, multi-region) · GCP (integration) · IAM Identity Center · Transit Gateway · Route 53 · CloudFront · Bedrock |
+| **Kubernetes** | EKS 1.34 · Karpenter 1.12 · Bottlerocket 1.59 · Pod Identity · AWS LBC v3 · VPA · Kyverno · Istio Ambient · Gateway API · cert-manager · external-secrets · external-dns |
+| **GitOps / Helm** | ArgoCD (ApplicationSets, Server-Side Diff, Pod Identity cluster onboard) · Helm · Crossplane v2 (Upbound) · monochart |
+| **IaC** | Terraform · Terragrunt · Checkov · Infracost · `tfmv` |
+| **CI/CD** | GitLab CI (Premium) · `services-release` unified template · self-hosted EC2 spot runners · ARM64 · GitHub Actions |
+| **Observability** | Datadog (APM, Logs, Synthetics, Operator) · CloudWatch · Zenduty |
+| **Security** | SCPs · WAF · KMS · External Secrets · SOC 2 auditee · ISO 27001 lead responder · SAST / SCA / gitleaks / Trivy in CI |
+| **Languages** | Bash · HCL · YAML · Python · Go (read) · GraphQL |
+
+---
+
+## Certifications
+
+- **CKA — Certified Kubernetes Administrator** (CNCF)
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/ahmadasmar](https://www.linkedin.com/in/ahmadasmar)
+- **Portfolio:** [ahmedasmar.github.io](https://ahmedasmar.github.io) — projects, architecture deep-dives, full tech stack
+- **GitHub:** here · Commonplace contributions live at [`ahmad-asmar`](https://github.com/ahmad-asmar)
+
+> Open to Staff / Senior DevOps · Platform Engineering · SRE roles. Remote-friendly · GMT+3.
