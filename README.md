@@ -2,7 +2,7 @@
 
 **Staff DevOps / Platform Lead** · Open to opportunities
 
-Built and ran an AWS-native platform serving 25+ microservices across 20 EKS clusters in 4 regions for 3 years — 18 months of which as the **sole DevOps engineer**. Open-source maintainer of a Terraform Registry module powering self-service GitLab runner fleets (3,767 downloads) and a 158★ Claude Code skills marketplace.
+**6+ years scaling cloud-native infrastructure across AWS, GCP, and Azure.** The last three of those owning a SaaS-scale AWS-native platform: 20 EKS clusters across 4 regions, 25+ microservices, 20+ government customers — built from a hybrid Azure+AWS estate, with the first 18 months as the **sole DevOps engineer**. Open-source maintainer of a Terraform Registry module powering self-service GitLab runner fleets (3,767 downloads) and a 158★ Claude Code skills marketplace.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadasmar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadasmar)
 [![Medium](https://img.shields.io/badge/Medium-@ahmed.asmar-12100E?logo=medium&logoColor=white)](https://medium.com/@ahmed.asmar)
@@ -29,6 +29,18 @@ Built and ran an AWS-native platform serving 25+ microservices across 20 EKS clu
 - **["Building a Local Dev Platform with Kubernetes, Tilt, and local GitLab pipelines"](https://medium.com/@ahmed.asmar/building-a-local-dev-platform-with-kubernetes-tilt-and-local-gitlab-pipelines-ab534d428c82)** — *Medium*, Apr 9, 2026. A local dev platform mirroring prod via k3d + Traefik + Kustomize + Tilt + GitLab CI.
 
 More at [`@ahmed.asmar` on Medium](https://medium.com/@ahmed.asmar).
+
+---
+
+## 💼 Career
+
+| When | Role | Where |
+|---|---|---|
+| **May 2023 – present** · 3 yr | Senior DevOps Engineer | **Zencity** (via [ASAL Technologies](https://www.asaltech.com/)) — full platform ownership |
+| **Jun 2021 – May 2023** · 2 yr | DevOps Engineer L2 | **Freightos** — GCP, Kubernetes, ArgoCD, CI/CD |
+| **Jul 2020 – Jul 2021** · 1 yr | DevOps Engineer | **PDF Solutions** — cloud IaC, configuration management |
+| **May 2019 – Jul 2020** | IT Support Technician | **Partners for Sustainable Development** |
+| **Dec 2017 – Dec 2018** | IT Support Technician | **Palestine Telecommunications (Paltel) Group** |
 
 ---
 
