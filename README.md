@@ -5,6 +5,7 @@
 Built and ran an AWS-native platform serving 25+ microservices across 20 EKS clusters in 4 regions for 3 years — 18 months of which as the **sole DevOps engineer**. Open-source maintainer of a Terraform Registry module powering self-service GitLab runner fleets (3,767 downloads) and a 158★ Claude Code skills marketplace.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadasmar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadasmar)
+[![Medium](https://img.shields.io/badge/Medium-@ahmed.asmar-12100E?logo=medium&logoColor=white)](https://medium.com/@ahmed.asmar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedasmar.github.io-24292e?logo=github&logoColor=white)](https://ahmedasmar.github.io)
 [![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?logo=kubernetes&logoColor=white)](https://www.cncf.io/training/certification/cka/)
 
@@ -19,6 +20,15 @@ Built and ran an AWS-native platform serving 25+ microservices across 20 EKS clu
 | [**godaddy-webhook**](https://github.com/ahmedasmar/godaddy-webhook) | Cert-manager DNS-01 webhook for GoDaddy (Go). ACME automation for domains that don't fit the standard providers. |
 | [**terraform-aws-sftp**](https://github.com/ahmedasmar/terraform-aws-sftp) | AWS Transfer Family SFTP module on top of S3. |
 | [**platform-engineering-project**](https://github.com/ahmedasmar/platform-engineering-project) | kagent AI agents + MCP servers (Datadog) + Ollama on k8s — a working sandbox for AI-on-platform patterns. |
+
+---
+
+## ✍️ Published writing
+
+- **["Automating Pod Disruption Budgets with Kyverno"](https://medium.com/zencity-engineering/automating-pod-disruption-budgets-with-kyverno-0a6bee7bbcca)** — *Zencity Engineering*, Dec 2, 2025. How Zencity auto-generated PDBs for every microservice missing one, preventing service downtime when Karpenter consolidates nodes.
+- **["Building a Local Dev Platform with Kubernetes, Tilt, and local GitLab pipelines"](https://medium.com/@ahmed.asmar/building-a-local-dev-platform-with-kubernetes-tilt-and-local-gitlab-pipelines-ab534d428c82)** — *Medium*, Apr 9, 2026. A local dev platform mirroring prod via k3d + Traefik + Kustomize + Tilt + GitLab CI.
+
+More at [`@ahmed.asmar` on Medium](https://medium.com/@ahmed.asmar).
 
 ---
 
@@ -57,7 +67,8 @@ Built and ran an AWS-native platform serving 25+ microservices across 20 EKS clu
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/ahmadasmar](https://www.linkedin.com/in/ahmadasmar)
-- **Portfolio:** [ahmedasmar.github.io](https://ahmedasmar.github.io) — projects, architecture deep-dives, full tech stack
+- **Portfolio:** [ahmedasmar.github.io](https://ahmedasmar.github.io) — projects, writing, full tech stack
+- **Medium:** [`@ahmed.asmar`](https://medium.com/@ahmed.asmar)
 - **GitHub:** here · Commonplace contributions live at [`ahmad-asmar`](https://github.com/ahmad-asmar)
 
 > Open to Staff / Senior DevOps · Platform Engineering · SRE roles. Remote-friendly · GMT+3.
